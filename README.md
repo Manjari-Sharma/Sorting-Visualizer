@@ -25,3 +25,4 @@ Features:
 3. Time and Space complexity of algorithm being visualized.
 "#decentralized-app" 
 "# Sorting-Visualizer" 
+"# decentralized-app" 
