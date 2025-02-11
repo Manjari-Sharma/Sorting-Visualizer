@@ -23,3 +23,4 @@ Features:
    2.2) Data size ()
    2.3) Generation of new data (Randomly generate new data).
 3. Time and Space complexity of algorithm being visualized.
+"#decentralized-app" 
